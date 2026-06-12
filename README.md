@@ -10,7 +10,7 @@
 `Python`
 
 **AI / ML**
-`LangChain` `RAG` `ChromaDB` `OpenAI API` `Whisper` `Librosa` 'LangGraph'
+`LangChain` `RAG` `ChromaDB` `OpenAI API` `Whisper` `Librosa` `LangGraph`
 
 **Backend**
 `Django` `MySQL`
