@@ -10,10 +10,10 @@
 `Python`
 
 **AI / ML**
-`LangChain` `RAG` `ChromaDB` `OpenAI API` `Whisper` `Mediapipe` `Librosa`
+`LangChain` `RAG` `ChromaDB` `OpenAI API` `Whisper` `Librosa` 'LangGraph'
 
 **Backend**
-`FastAPI` `MySQL` `JWT` `WebSocket`
+`Django` `MySQL`
 
 **Tools**
 `Git` `Streamlit` `Jupyter Notebook`
