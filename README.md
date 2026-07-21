@@ -1,4 +1,3 @@
-<h3 align="center">RAG · LangGraph 기반 AI/LLM 엔지니어를 지향합니다</h3>
 
 <p align="center">
 LLM의 답변을 그대로 신뢰하지 않고, <b>검증 가능한 파이프라인</b>으로 설계하는 데 집중합니다.<br/>
@@ -21,6 +20,7 @@ AI/LLM 백엔드 개발 직무로 합류할 팀을 찾고 있습니다.
 **Language**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 
 **AI / ML**
 
@@ -28,17 +28,22 @@ AI/LLM 백엔드 개발 직무로 합류할 팀을 찾고 있습니다.
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-4B8BBE?style=flat-square)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square)
+![Embedding Models](https://img.shields.io/badge/Embedding%20Models-4051B5?style=flat-square)
 ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Whisper](https://img.shields.io/badge/Whisper-000000?style=flat-square)
 ![Librosa](https://img.shields.io/badge/Librosa-4051B5?style=flat-square)
 
+**Data Analysis**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square)
+
 **Backend**
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square)
 
 **Tools**
 
@@ -94,6 +99,14 @@ AI/LLM 백엔드 개발 직무로 합류할 팀을 찾고 있습니다.
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kimooooooo&show_icons=true&theme=default&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimooooooo&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kimooooooo&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kimooooooo&label=Profile%20views&color=blue&style=flat" />
 </p>
 
 <p align="center">
