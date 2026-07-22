@@ -91,9 +91,3 @@ AI/LLM 백엔드 개발 직무로 합류할 팀을 찾고 있습니다.
 
 현장 안전 규정 기반 챗봇으로, LLM 응답의 사실 검증 레이어를 설계했습니다. *(비공개 레포지토리)*
 
----
-## 📊 GitHub 통계
- 
-<p align="center">
-  <img src="https://hits.sh/github.com/Kimooooooo/Kimooooooo.svg?view=today-total&label=오늘%20/%20총%20방문자&style=flat-square" />
-</p>
