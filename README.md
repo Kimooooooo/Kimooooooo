@@ -53,14 +53,12 @@ AI/LLM 백엔드 개발 직무로 합류할 팀을 찾고 있습니다.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+**AI Tools**
  
----
- 
-## 🤖 AI 개발 워크플로우
- 
-`Claude Code` `Codex` `MCP`
- 
-설계·방향성·코드베이스 이해는 직접 담당하고, 구현 단계에서 AI 코딩 도구를 적극 활용합니다. MCP를 통해 외부 도구·데이터 소스를 연동한 개발 경험이 있습니다.
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-4B8BBE?style=flat-square)
  
 ---
  
