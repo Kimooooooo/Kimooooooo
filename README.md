@@ -94,4 +94,4 @@ AI/LLM 백엔드 개발 직무로 합류할 팀을 찾고 있습니다.
 ---
 
 📊 GitHub 통계
-<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kimooooooo&show_icons=true&theme=default&hide_border=true&locale=kr" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimooooooo&layout=compact&hide_border=true&locale=kr" /> </p>
+<p align="center"> <img src="https://img.shields.io/github/stars/Kimooooooo?style=flat-square&label=Stars" /> <img src="https://img.shields.io/github/followers/Kimooooooo?style=flat-square&label=Followers" /> </p>
