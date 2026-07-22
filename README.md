@@ -1,4 +1,3 @@
-
 <p align="center">
 LLM의 답변을 그대로 신뢰하지 않고, <b>검증 가능한 파이프라인</b>으로 설계하는 데 집중합니다.<br/>
 AI/LLM 백엔드 개발 직무로 합류할 팀을 찾고 있습니다.
@@ -94,25 +93,5 @@ AI/LLM 백엔드 개발 직무로 합류할 팀을 찾고 있습니다.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kimooooooo&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimooooooo&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kimooooooo&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kimooooooo&label=Profile%20views&color=blue&style=flat" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kimooooooo&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kimooooooo&label=Profile%20views&color=blue&style=flat" />
-</p>
+📊 GitHub 통계
+<p align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kimooooooo&show_icons=true&theme=default&hide_border=true&locale=kr" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kimooooooo&layout=compact&hide_border=true&locale=kr" /> </p>
