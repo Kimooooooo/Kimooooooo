@@ -92,11 +92,6 @@ AI/LLM 백엔드 개발 직무로 합류할 팀을 찾고 있습니다.
 - STAR 기법을 적용한 구조화된 JSON 피드백 리포트 생성
 `FastAPI` `MySQL` `JWT` `WebSocket` `OpenAI API` `NAVER CLOVA STT` `React`
  
-### 🎮 [Steam 게임 추천 챗봇](https://github.com/Kimooooooo/RAG-)
- 
-RAG 기반 게임 추천 시스템. 장르·세계관·게임타입 필터링을 지원합니다.
- 
-`Streamlit` `LangChain` `ChromaDB`
  
 ### 🦾 로봇 에이전트 시스템 (팀 프로젝트)
  
